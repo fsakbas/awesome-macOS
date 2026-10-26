@@ -68,6 +68,7 @@
 ### Backup
 - [Arq](https://www.arqbackup.com/) - Encrypted backups to Amazon, Dropbox, Google, OneDrive, etc.
 - [Carbon Copy Cloner](http://bombich.com) - Create incremental and fully bootable backups of your Mac to external storage.
+- [iPhone Data Manager](https://iphonedatamanager.com) - Local-first iPhone backup manager and WhatsApp, photo, message, and diagnostics exporter for Mac.
 
 ### Chat Clients
 
